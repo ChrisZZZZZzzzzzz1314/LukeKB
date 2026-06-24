@@ -80,7 +80,7 @@ def get_llm_content(name, level, category):
         "model": "MiniMax-M2.7",
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.7,
-        "max_tokens": 1500
+        "max_tokens": 5000,
     }
     
     cmd = [
