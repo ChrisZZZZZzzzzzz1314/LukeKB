@@ -45104,5 +45104,3077 @@
     ],
     "category": "其他",
     "source": "amap_county"
+  },
+  {
+    "name": "九皇山景区-滑雪_草_场_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "云中河温泉旅游度假区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "神潭大峡谷景区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "杉树坪温泉酒店_海螺沟景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "海公馆_温泉民宿",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "天水麦积山温泉旅游酒店_温泉宴府",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "惠州南昆山温泉公寓_大观园昆山峡景区4号店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "尧山滑雪乐园景区_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "海景温泉度假酒店_宁波象山松兰山景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "哈尔滨极地公园_极地馆",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "苏州博物馆_本馆_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "冷泉滩旅游度假区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "集州欢歌海浪谷_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "洛阳伏牛山滑雪乐园_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "花园小区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "涞源县七山滑雪度假区_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "乌镇梵谷民宿_西栅景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "岱山海岛公园_陆域_东沙古镇停车点",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "康乐园_平朔路_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "红海水上乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "勒通古镇_千户藏寨旅游景区地面停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "即墨老酒温泉专卖_崂山景区旅游专用路店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "鄂州园博园_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "隐石温泉花园酒店_彝人古镇店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "厦门汀溪温泉旅游度假区_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "尚景酒店_南浔古镇景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "海和泉温泉别墅_温泉旅游度假区1号店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "优游谷乐园_中泉_国际购物广场店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "左溪欢乐谷_游客中心_水上乐园",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "坪地山景区水上乐园_漂流起点_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "新平饭店_大汖温泉度假景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "西海古镇民宿_庐山西海柘林湖景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "古镇_天御西区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "苗寨大峡谷漂流_建设中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "金开古镇客栈_海螺沟景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "云峰湖旅游景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "好想来零食乐园_威海环翠区温泉镇店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "华廷温泉会馆_太子滩店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "萌趣游乐园_马马崖镇_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "香洲温泉公园_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "柏林古镇景区老街停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "小石子景区卧龙山滑雪场_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "碧泉池温泉养生会馆_千山景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "郁野_杉水旅游度假区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "龙泉古镇_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "马岭河峡谷景区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "七里扬帆景区_姚坞码头",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "峡谷大酒店_水上丹霞店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "千岛湖金峰峡谷漂流_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "乐华城_88摄氏度温泉乐园",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "田园寨风景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "腾冲樱花谷森林温泉景区游客中心_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "林州云海旅游度假村_石板岩小镇店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "全嘉乐游乐园_乐平大道店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "燕岩风景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "欢乐龙湾温泉水乐园停车场_出口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "智圣汤泉水上乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "桃花潭旅游度假区_桃溪河",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉_都市华庭",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "阳朔古镇主题酒店_兴坪古镇阳朔漓江景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "祁连小镇游乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉谷_公园道酒店地下停车场",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "古镇_天御",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "四时田园民宿_太行大峡谷景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "开平碉楼文化旅游区_立园景区_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "竹舟雪山度假酒店_丽江古城区清溪公园店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "可可托海国际滑雪度假区_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "万仙山_郭亮_景区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "云中雅苑温泉游泳馆_奇村温泉度假区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "鹿鸣溪谷_柿子沟",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "泾川县博物馆_城北馆_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "茶溪川滑雪公园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "三江森林温泉度假区_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大汖温泉度假景区地面停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "海泉乐园_海窝子古镇_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "葫芦古镇旅游景区停车场_出口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "88度温泉乐园_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "督公山滑雪乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "七里扬帆葫芦峡漂流_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "黄山-温泉景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "凤凰谷景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "千岛湖旅游度假区_界首_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "黑风关古镇旅游区临时停车场_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "玉龙湾旅游滑雪度假村_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "花乐汤温泉_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "龙栖谷景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "中山温泉宾馆_中山温泉旅游区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉浴池_武垣路店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "罗约海滨温泉地面停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "古镇_天御东区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "赵化古镇景区生态地面停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "三仙山花溪谷_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "康谷温泉度假式公寓_蒙山龟蒙景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "工会驿站_郊区总工会大通古镇风景区_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "麦积山大峡谷漂流_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "龙潭山风景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "阳关玉门关旅游区_阳关_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "云顶峡谷景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "将军山国际滑雪度假区A区游客_滑雪_服务中心",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "南里滑雪公园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "漫谷温泉客栈_腾冲高黎贡国际旅游景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "爱琴海水上乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "定兴滑雪乐园_植物园_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "六罗峡谷雨林运动旅游区_建设中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "极速部落游乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "泉世界温泉中心_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "赤水湾古镇民宿_赤水湾旅游度假区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "澜海温泉停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "石台硒海浪水上乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "上津古镇景区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "花仙谷_建设中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大东山_洪园_温泉旅游度假景区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "千岛湖旅游度假区_进贤湾_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "鲁山温泉山庄_尧山温泉旅游度假区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "公共厕所_六盘水市梅花山旅游景区无动力乐园1号_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "皖南大峡谷激情漂流_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "桂林古镇江璟酒店_漓江景区大圩古镇店_地面停车点",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "抚仙湖公园-仙湖古镇_建设中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "绵山风景区-栖贤谷_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "绿博园景区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "忆江南旅游度假区_营地美学中心",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "当阳峪滑雪度假乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "游乐园_朝凤北路_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "同盟古镇_气味博物馆",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "勒通古镇_千户藏寨旅游景区游客中心",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大兴温泉度假村__国家3A级旅游景区_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "半岛温泉_邗江区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "百丈飞瀑漂流_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "龙凤山古镇生态旅游度假区_一期_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "勒通古镇_千户藏寨旅游景区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉县博物馆_建设中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "炎帝旅游度假村温泉_北门_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "石阡温泉群博物馆_不开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "伏羲山大峡谷景区狄坡停车场_入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "奥林匹克帆船中心_奥帆海洋文化旅游区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "惠山古镇景区内部停车场_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉谷_公园道酒店地下停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "鹿鸣谷_温泉_水乐园",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "阳明古镇_府前路历史文化街区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "金沙滩游乐园_水上乐园",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "庆阳黄土高原地缝峡谷景区_黑河大峡谷__暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉假日公馆_风尚酒店",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "乾兆花海戏水乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "碧桂园_泉韵",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "海口宾馆_原钓鱼台宾馆二部店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "天生桥旅游景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "红崖峡谷滑雪场_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "万豪温泉谷_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "遵化汤泉宫温泉度假村_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "龙佑赤壁温泉度假区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "柏林古镇景区白马寺地面停车场_入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "平山大峡谷漂流下站服务区_游客中心_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "美季温泉水乐园_装修中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "石阡古温泉水上乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "咸宁温泉谷度假区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "安德利_崑龙温泉旅游景区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "灵山人遗址公园_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "黄山温泉景区停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "合浦星岛湖旅游度假区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "鹿鸣温泉酒店_万峰通化滑雪度假区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "尧坝古镇_西门_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "龙岩天子温泉旅游度假区_珑泊湾大酒店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "黄山温泉_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "天籁大峡谷景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "自贡恐龙博物馆_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "窑湾古镇风景区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "尧都古镇景区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "驷马水乡大峡谷_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "海滨温泉旅游度假区停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "恩平岑洞大峡谷漂流旅游区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大海草山国际滑雪度假区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大别山滑雪旅游度假区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "哈乐谷游乐园_智多谷店",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "金汤山温泉滑雪旅游度假景区_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "欢乐园_露营社",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉旅游度假区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "富来登温泉水乐园_水乐汇_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "才子温泉_度假美学乐园",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "青山谷_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大通古镇风景区游客接待中心停车场_出口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "桃花潭旅游度假区_义门",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "阳光谷旅游度假景区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "苏稽古镇旅游景区临时停车场_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "德兴市博物馆_江西矿冶博物馆_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "天池乐园温泉洗浴_新延路店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "红海温泉乐园_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "虞山_尚湖度假区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "心泉谷温泉旅游度假村_建设中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "古镇别墅_方特欢乐世界度假区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "德令哈外星人遗址景区_不对外开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "御隆泉温泉洗浴_林海景天_林枫苑店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "公共厕所_自贡恐龙博物馆科普乐园_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "颐泉谷温泉汗蒸会馆_丰华新城店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "瓦窑迪乐园_环北路_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "连天乐农庄生态旅游度假区_贝里蟹谷自然旅游景区_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "天龙峡谷景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "斗篷山景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "儿童乐园_龙潭公园店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "宋夹城体育休闲公园_扬州大运河文化旅游度假区_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "嘉鱼山湖温泉_连江风景区分部__暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉度假区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "温泉度假村_扬州大运河文化旅游度假区_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "献县温泉水乐园_建设中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "嶂石岩峡谷漂流_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "石家庄大峡谷漂流_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "圣水观风景区_装修中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "横江古镇游客中心_旧_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "欢乐龙湾温泉水乐园停车场_入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "桔子酒店_九华山风景区九子古镇店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "游埠古镇景区游客中心地上停车场_装修中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "勒通古镇_千户藏寨旅游景区地面停车场",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "龙岗古镇_进士第",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "洛龙谷温泉_牟平店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "密苑云顶乐园_云顶滑雪场_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "古柏渡飞黄旅游区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "古镇明月湾_赶海园",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "怀来葡缇泉_帝曼_温泉度假村",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "齐乐梦华嬉雪乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "南海温泉_南海国际店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "乐园幼儿园_中山街_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "仙湖古镇_仙湖湾景区",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "雅鲁激流探险风景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "蒲津渡遗址景区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "全鑫温泉宾馆_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "崑龙温泉水乐园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "昌邑市绿博园景区停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "花海温泉酒店_都江堰景区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "素隐民宿盐官古镇店投影民宿_盐官旅游度假区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "古龙河漂流景区_暂停开放_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "乐园馄饨馆_岱道庵温泉西区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "乐尚岛海景公寓_南澳岛生态旅游区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "永泉旅游度假区_永泉小镇_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "银波乐园_果园社区店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "汤头温泉旅游度假区游客中心_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "森谷温泉_厦门同安店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "御河温泉民宿_甘棠公园店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "矿山公园_温泉馆__公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "海泉湾温泉世界停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "王官谷国家级风景名胜区_售票处_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "海乐园_奥特莱斯城市公园店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "茶马古道温泉水上乐园_茶马古城店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "古镇公园烟酒超市_古镇公元店_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "曙光水镇旅游度假区_建设中_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "崂山_九水_游客服务中心停车场",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大通古镇风景区游客接待中心地面停车场_出入口_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "野谷_温泉咖啡",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "葫芦古镇旅游度假区_公交站_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大理苍山世界地质公园博物馆_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "云顶滑雪场地公园_暂停营业_",
+    "level": "4A",
+    "category": "其他",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "长鹿旅游休博园",
+    "level": "4A",
+    "category": "城市公园",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "雷琼世界地质公园_海口园区_",
+    "level": "4A",
+    "category": "城市公园",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "雁栖湖_暂停开放_",
+    "level": "4A",
+    "category": "城市公园",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "青岛方特梦幻王国",
+    "level": "4A",
+    "category": "主题乐园",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "苏州阳澄半岛乐园",
+    "level": "4A",
+    "category": "主题乐园",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "大明寺_扬州大运河文化旅游度假区_",
+    "level": "4A",
+    "category": "人文山水",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
+  },
+  {
+    "name": "沙湾古镇",
+    "level": "4A",
+    "category": "人文山水",
+    "city": "",
+    "province": "",
+    "location": [
+      0,
+      0
+    ],
+    "source": "4a_skeleton_rerun"
   }
 ]
