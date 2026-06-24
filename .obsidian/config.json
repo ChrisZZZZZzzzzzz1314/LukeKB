@@ -1,0 +1,21 @@
+{
+  "attachmentFolderPath": "assets",
+  "availableFileServers": {
+    "obsidian": true,
+    "dendron": true,
+    "foam": true
+  },
+  "autoSaveInterval": 30,
+  "confirmBeforeClosing": false,
+  "showLineNumber": false,
+  "showRibbon": true,
+  "showTabLine": true,
+  "showViewHeader": false,
+  "snapToIndent": false,
+  "subfolders": [],
+  "tabSize": 2,
+  "triggerCursor": true,
+  "useMarkdownLinks": false,
+  "userZipPrefix": "",
+  "vaultName": "Luke景区知识库"
+}

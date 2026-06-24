@@ -1,0 +1,12 @@
+{
+  "filterToCycles": false,
+  "forceDirection": false,
+  "hideUnresolved": false,
+  "indent": 20,
+  "linkSize": 6,
+  "nodeSize": 6,
+  "showAttachment": false,
+  "showTags": true,
+  "textFadeMultiplier": 0,
+  "zoomSpeed": 1
+}

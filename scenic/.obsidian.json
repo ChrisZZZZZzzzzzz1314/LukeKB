@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "name": { "type": "text", "display": "景区名称" },
+    "pinyin": { "type": "text" },
+    "level": { "type": "text", "display": "等级" },
+    "level_year": { "type": "text", "display": "评定年份" },
+    "province": { "type": "text", "display": "省份" },
+    "city": { "type": "text", "display": "城市" },
+    "category": { "type": "text", "display": "分类" },
+    "location": { "type": "text", "display": "坐标" },
+    "ticket": { "type": "text", "display": "门票" },
+    "open_time": { "type": "text", "display": "开放时间" },
+    "free": { "type": "checkbox", "display": "免费" },
+    "tags": { "type": "tags" },
+    "source": { "type": "text" },
+    "status": { "type": "text" },
+    "generated": { "type": "text" }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "backlink": true,
+  "canvas": true,
+  "checkbox": true,
+  "cmdpal": true,
+  "daily-notes": false,
+  "document-search": true,
+  "file-recovery": true,
+  "files": true,
+  "global-search": true,
+  "graph": true,
+  "note-composer": true,
+  "outline": true,
+  "publish": false,
+  "random-note": false,
+  "search": true,
+  "slashCommands": true,
+  "sync": false,
+  "tag-pane": true,
+  "templates": true,
+  "word-count": true,
+  "workspaces": false
+}

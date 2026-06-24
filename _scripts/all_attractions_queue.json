@@ -1,0 +1,3527 @@
+[
+  {
+    "name": "故宫博物院",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "恭王府景区",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "天坛公园",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "北京奥林匹克公园",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "颐和园",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "圆明园遗址公园景区",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "八达岭-慕田峪长城旅游区",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "北京大运河文化旅游景区",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "明十三陵景区",
+    "level": "5A",
+    "province": "北京",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "天津古文化街旅游区",
+    "level": "5A",
+    "province": "天津",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "盘山风景名胜区",
+    "level": "5A",
+    "province": "天津",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "承德避暑山庄及周围寺庙景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "保定白石山景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "保定白洋淀景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "秦皇岛山海关景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "保定野三坡景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "保定清西陵景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "石家庄西柏坡景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "承德金山岭长城景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "唐山市清东陵景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "唐山市南湖·开滦旅游景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "邯郸市娲皇宫景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "衡水市衡水湖旅游景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "邯郸市广府古城景区",
+    "level": "5A",
+    "province": "河北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "大同云冈石窟景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "长治太行山大峡谷八泉峡景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "忻州五台山风景名胜区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "临汾云丘山景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "晋城皇城相府生态文化旅游区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黄河壶口瀑布旅游区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "晋中市绵山风景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "晋中市平遥古城景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "太原晋祠天龙山景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "忻州雁门关景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "晋中乔家大院景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "临汾洪洞大槐树寻根祭祖园景区",
+    "level": "5A",
+    "province": "山西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "鄂尔多斯响沙湾旅游景区",
+    "level": "5A",
+    "province": "内蒙古",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "赤峰阿斯哈图石林景区",
+    "level": "5A",
+    "province": "内蒙古",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "鄂尔多斯成吉思汗陵旅游区",
+    "level": "5A",
+    "province": "内蒙古",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿拉善胡杨林旅游区",
+    "level": "5A",
+    "province": "内蒙古",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "呼伦贝尔中俄边境旅游区",
+    "level": "5A",
+    "province": "内蒙古",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "呼伦贝尔呼伦贝尔大草原·莫尔格勒河景区",
+    "level": "5A",
+    "province": "内蒙古",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "兴安盟阿尔山-柴河旅游景区",
+    "level": "5A",
+    "province": "内蒙古",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "呼和浩特老牛湾黄河大峡谷旅游区",
+    "level": "5A",
+    "province": "内蒙古",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "沈阳市沈阳植物园",
+    "level": "5A",
+    "province": "辽宁",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "鞍山千山景区",
+    "level": "5A",
+    "province": "辽宁",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "大连老虎滩海洋公园-老虎滩极地馆",
+    "level": "5A",
+    "province": "辽宁",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "盘锦红海滩风景廊道景区",
+    "level": "5A",
+    "province": "辽宁",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "大连金石滩景区",
+    "level": "5A",
+    "province": "辽宁",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "本溪五女山景区",
+    "level": "5A",
+    "province": "辽宁",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "本溪水洞景区",
+    "level": "5A",
+    "province": "辽宁",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "延边州长白山景区",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "长春世界雕塑公园景区",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "长春伪满皇宫博物院",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "通化高句丽文物古迹旅游景区",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "长春净月潭景区",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "松原查干湖景区",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "长春长影世纪城景区",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "白城大安嫩江湾旅游区",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "延边州六鼎山文化旅游区",
+    "level": "5A",
+    "province": "吉林",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "哈尔滨太阳岛景区",
+    "level": "5A",
+    "province": "黑龙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "大兴安岭北极村旅游景区",
+    "level": "5A",
+    "province": "黑龙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黑河五大连池景区",
+    "level": "5A",
+    "province": "黑龙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "鸡西虎头旅游景区",
+    "level": "5A",
+    "province": "黑龙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "牡丹江镜泊湖景区",
+    "level": "5A",
+    "province": "黑龙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "齐齐哈尔扎龙生态旅游区",
+    "level": "5A",
+    "province": "黑龙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "伊春林海奇石景区",
+    "level": "5A",
+    "province": "黑龙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "东方明珠广播电视塔",
+    "level": "5A",
+    "province": "上海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "中国共产党一大·二大·四大纪念馆景区",
+    "level": "5A",
+    "province": "上海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "上海野生动物园",
+    "level": "5A",
+    "province": "上海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "西沙明珠湖景区",
+    "level": "5A",
+    "province": "上海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "上海科技馆",
+    "level": "5A",
+    "province": "上海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "苏州园林",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "镇江金山·焦山·北固山风景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "无锡鼋头渚旅游风景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "苏州周庄古镇景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "苏州太湖旅游区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南京钟山风景名胜区-中山陵园风景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "苏州沙家浜-虞山尚湖旅游区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "常州天目湖景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "无锡中央电视台无锡影视基地三国水浒城景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "镇江茅山景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "淮安周恩来故里景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "无锡灵山大佛景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "盐城中华麋鹿园景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "苏州同里古镇景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "徐州云龙湖景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南京夫子庙-秦淮河风光带",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "连云港花果山景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "常州环球恐龙城休闲旅游区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "常州春秋淹城旅游区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "扬州瘦西湖风景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "无锡惠山古镇景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南通濠河风景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宿迁洪泽湖湿地景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "泰州溱湖旅游景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "连云港连岛景区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "苏州金鸡湖旅游区",
+    "level": "5A",
+    "province": "江苏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "杭州西湖风景名胜区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "温州雁荡山风景名胜区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "舟山普陀山风景名胜区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "嘉兴乌镇古镇旅游区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "杭州千岛湖风景名胜区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宁波溪口-滕头旅游景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "湖州南浔古镇景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "金华横店影视城景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "台州天台山景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "台州神仙居景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "嘉兴西塘古镇旅游景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "杭州西溪湿地旅游区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "丽水缙云仙都景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "绍兴鲁迅故里·沈园景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "嘉兴南湖旅游区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "衢州江郎山·廿八都旅游区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宁波天一阁·月湖景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "温州刘伯温故里景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "衢州根宫佛国文化旅游区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "丽水云和梯田景区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "台州台州府城文化旅游区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "金华双龙风景旅游区",
+    "level": "5A",
+    "province": "浙江",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黄山风景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黄山市古徽州文化旅游区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "池州九华山风景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "合肥三河古镇景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "安庆天柱山风景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "芜湖方特旅游区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黄山皖南古村落-西递宏村",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "六安万佛湖风景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "六安天堂寨旅游景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "马鞍山长江采石矶文化生态旅游区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宣城龙川景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阜阳八里河风景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "滁州琅琊山景区",
+    "level": "5A",
+    "province": "安徽",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "厦门鼓浪屿风景名胜区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宁德太姥山旅游区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南平武夷山风景名胜区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "福州三坊七巷景区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "三明泰宁风景旅游区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "龙岩古田旅游区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "福建土楼旅游景区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "莆田湄洲岛妈祖文化旅游区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宁德白水洋·鸳鸯溪旅游景区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "厦门园林植物园景区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "泉州清源山风景名胜区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "龙岩冠豸山景区",
+    "level": "5A",
+    "province": "福建",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "九江庐山风景名胜区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "抚州资溪大觉山景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "吉安井冈山风景旅游区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "上饶弋阳龟峰景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "上饶三清山风景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南昌滕王阁旅游区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "鹰潭龙虎山风景名胜区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "萍乡武功山景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "上饶婺源县江湾景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "九江庐山西海景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "景德镇古窑民俗博览区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "赣州三百山景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "赣州瑞金共和国摇篮景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "上饶篁岭景区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宜春明月山旅游区",
+    "level": "5A",
+    "province": "江西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "泰安泰山景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "临沂沂蒙山旅游区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "烟台蓬莱阁-三仙山-八仙过海旅游区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "潍坊青州古城景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "威海威海华夏城景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "济宁明故城三孔旅游区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "东营黄河口生态旅游区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "青岛奥帆海洋文化旅游区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "淄博周村古商城景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "青岛崂山景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "济南天下第一泉风景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "威海刘公岛景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "枣庄台儿庄古城景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "日照海滨国家森林公园",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "烟台南山旅游景区",
+    "level": "5A",
+    "province": "山东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "郑州嵩山少林寺景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "洛阳龙门石窟景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "焦作云台山风景名胜区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "安阳殷墟景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "洛阳白云山景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "平顶山尧山-中原大佛景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "新乡八里沟景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "驻马店嵖岈山旅游景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南阳老界岭·恐龙遗迹园景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "洛阳龙潭大峡谷景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "洛阳老君山·鸡冠洞旅游区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "许昌大鸿寨景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "新乡宝泉旅游区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "商丘芒砀山旅游区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "信阳鸡公山景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "周口太昊伏羲陵文化旅游区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "开封清明上河园景区",
+    "level": "5A",
+    "province": "河南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "武汉黄鹤楼公园",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宜昌三峡大坝-屈原故里旅游区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "恩施大峡谷景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "十堰武当山景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "武汉东湖景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宜昌三峡人家风景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "恩施腾龙洞景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "荆门明显陵文化旅游景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黄冈麻城龟峰山景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "咸宁三国赤壁古战场景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "神农架林区神农架旅游区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "恩施神农溪纤夫文化旅游区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "武汉黄陂木兰文化生态旅游区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "十堰丹江口武当大明峰景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "襄阳古隆中景区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "荆州古城历史文化旅游区",
+    "level": "5A",
+    "province": "湖北",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "张家界武陵源-天门山旅游区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "衡阳南岳衡山旅游区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "湘潭韶山旅游区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "岳阳岳阳楼-君山岛旅游区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "长沙岳麓山·橘子洲旅游区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "长沙花明楼景区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "邵阳崀山景区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "郴州东江湖旅游区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "湘西凤凰古城旅游区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "常德桃花源旅游区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "株洲炎帝陵景区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "湘西矮寨·十八洞·德夯大峡谷景区",
+    "level": "5A",
+    "province": "湖南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "广州长隆旅游度假区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "深圳华侨城旅游度假区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "广州白云山风景区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "梅州雁南飞茶田景区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "佛山西樵山景区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "清远连州地下河景区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "韶关丹霞山景区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "惠州罗浮山景区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "佛山长鹿旅游休博园",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阳江海陵岛大角湾海上丝路旅游区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "中山孙中山故里旅游区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "惠州西湖风景区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "肇庆星湖风景名胜区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "河源万绿湖风景区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "揭阳黄满寨瀑布旅游区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "江门开平碉楼文化旅游区",
+    "level": "5A",
+    "province": "广东",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "桂林漓江景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "桂林乐满地度假世界",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "桂林独秀峰-王城景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南宁青秀山旅游区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "桂林两江四湖·象山景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "崇左德天跨国瀑布景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "百色起义纪念园景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "贺州黄姚古镇景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "桂林八角寨景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "柳州程阳八寨景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "崇左花山岩画景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "北海涠洲岛景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "防城港十万大山国家森林公园景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "梧州骑楼城-龙母庙景区",
+    "level": "5A",
+    "province": "广西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "三亚南山文化旅游区",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "三亚南山大小洞天旅游区",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "保亭呀诺达雨林文化旅游区",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "陵水分界洲岛旅游区",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "万宁兴隆热带植物园",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "三亚天涯海角游览区",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "海口火山口地质公园",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "三亚蜈支洲岛旅游区",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "琼海博鳌亚洲论坛永久会址景区",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "儋州石花水洞地质公园",
+    "level": "5A",
+    "province": "海南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "大足石刻景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "巫山小三峡-小小三峡景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "武隆喀斯特旅游区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "酉阳桃花源景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南川金佛山景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "万盛黑山谷景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "江津四面山景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "云阳龙缸景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "彭水阿依河景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "涪陵武陵山大裂谷景区",
+    "level": "5A",
+    "province": "重庆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "成都青城山-都江堰旅游景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "乐山峨眉山景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿坝九寨沟旅游区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿坝黄龙景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "广安邓小平故里旅游区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "南充阆中古城景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "绵阳北川羌城旅游区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宜宾蜀南竹海景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "乐山大佛景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "甘孜海螺沟景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿坝四姑娘山景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "成都天台山景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "巴中光雾山旅游区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "广元剑门蜀道剑门关旅游区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "雅安碧峰峡景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "遂宁大英死海景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "眉山瓦屋山景区",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "德阳三星堆博物馆",
+    "level": "5A",
+    "province": "四川",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "安顺黄果树瀑布景区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "安顺龙宫景区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "毕节百里杜鹃景区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黔南荔波樟江景区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "遵义赤水丹霞旅游区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "贵阳花溪青岩古镇景区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "铜仁梵净山旅游区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黔东南镇远古城景区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黔西南万峰林景区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "遵义会议会址旅游区",
+    "level": "5A",
+    "province": "贵州",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "昆明石林风景区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "丽江玉龙雪山景区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "大理崇圣寺三塔文化旅游区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "西双版纳中科院热带植物园",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "丽江古城景区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "迪庆香格里拉普达措景区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "文山普者黑旅游景区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "保山腾冲火山热海旅游区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "保山腾冲和顺古镇景区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "曲靖罗平九龙瀑布群景区",
+    "level": "5A",
+    "province": "云南",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "拉萨布达拉宫景区",
+    "level": "5A",
+    "province": "西藏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "拉萨大昭寺景区",
+    "level": "5A",
+    "province": "西藏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "林芝巴松措景区",
+    "level": "5A",
+    "province": "西藏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "日喀则扎什伦布寺景区",
+    "level": "5A",
+    "province": "西藏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "林芝雅鲁藏布大峡谷景区",
+    "level": "5A",
+    "province": "西藏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "西安秦始皇兵马俑博物馆",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "渭南华山景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "延安黄帝陵景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "西安华清池景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宝鸡法门寺景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "商洛金丝峡景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "咸阳乾陵景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "延安延川黄河乾坤湾景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "宝鸡太白山旅游景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "汉中勉县武侯墓景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "西安大雁塔·大唐芙蓉园景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "延安革命纪念地景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "榆林镇北台景区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "黄河壶口瀑布旅游区",
+    "level": "5A",
+    "province": "陕西",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "嘉峪关文物景区",
+    "level": "5A",
+    "province": "甘肃",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "平凉崆峒山景区",
+    "level": "5A",
+    "province": "甘肃",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "天水麦积山景区",
+    "level": "5A",
+    "province": "甘肃",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "敦煌鸣沙山月牙泉景区",
+    "level": "5A",
+    "province": "甘肃",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "张掖七彩丹霞景区",
+    "level": "5A",
+    "province": "甘肃",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "甘南冶力关旅游区",
+    "level": "5A",
+    "province": "甘肃",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "临夏炳灵寺世界文化遗产旅游区",
+    "level": "5A",
+    "province": "甘肃",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "陇南官鹅沟景区",
+    "level": "5A",
+    "province": "甘肃",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "青海湖景区",
+    "level": "5A",
+    "province": "青海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "西宁塔尔寺景区",
+    "level": "5A",
+    "province": "青海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "海西茶卡盐湖景区",
+    "level": "5A",
+    "province": "青海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "海东互助土族故土园景区",
+    "level": "5A",
+    "province": "青海",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "石嘴山沙湖旅游景区",
+    "level": "5A",
+    "province": "宁夏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "银川镇北堡西部影视城",
+    "level": "5A",
+    "province": "宁夏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "银川贺兰山岩画景区",
+    "level": "5A",
+    "province": "宁夏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "银川水洞沟旅游区",
+    "level": "5A",
+    "province": "宁夏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "吴忠青铜峡黄河大峡谷旅游区",
+    "level": "5A",
+    "province": "宁夏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "固原六盘山红军长征旅游区",
+    "level": "5A",
+    "province": "宁夏",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "昌吉天山天池景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "伊犁那拉提旅游风景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "博州赛里木湖景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "吐鲁番葡萄沟风景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "喀什噶尔老城景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "伊犁喀拉峻景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "巴州巴音布鲁克景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿勒泰可可托海景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿克苏库车天山神秘大峡谷景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿克苏天山托木尔景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿勒泰喀纳斯景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "和田昆仑湖景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "哈密巴里坤湖景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "克拉玛依世界魔鬼城景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "伊犁霍城薰衣草园景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "塔城沙湾温泉旅游区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "巴州罗布人村寨景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "阿勒泰白哈巴景区",
+    "level": "5A",
+    "province": "新疆",
+    "city": "",
+    "source": "5a_list"
+  },
+  {
+    "name": "北京欢乐谷",
+    "level": "4A",
+    "province": "北京",
+    "city": "北京",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "故宫博物院",
+    "level": "4AA",
+    "province": "北京",
+    "city": "北京",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "八达岭长城",
+    "level": "4AA",
+    "province": "北京",
+    "city": "北京",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "慕田峪长城",
+    "level": "4AA",
+    "province": "北京",
+    "city": "北京",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "居庸关长城",
+    "level": "4A",
+    "province": "北京",
+    "city": "北京",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "司马台长城旅游区",
+    "level": "4A",
+    "province": "北京",
+    "city": "北京",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "颐和园",
+    "level": "4AA",
+    "province": "北京",
+    "city": "北京",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "天坛公园",
+    "level": "4AA",
+    "province": "北京",
+    "city": "北京",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "天津盘山风景名胜区",
+    "level": "4AA",
+    "province": "天津",
+    "city": "天津",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "黄崖关长城风景区",
+    "level": "4A",
+    "province": "天津",
+    "city": "天津",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "西柏坡纪念馆",
+    "level": "4AA",
+    "province": "河北省",
+    "city": "石家庄",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "西柏坡红色胜典景区",
+    "level": "4AA",
+    "province": "河北省",
+    "city": "石家庄",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "嶂石岩风景名胜区",
+    "level": "4A",
+    "province": "河北省",
+    "city": "石家庄",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "晋祠景区",
+    "level": "4A",
+    "province": "山西省",
+    "city": "太原",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "蒙山大佛景区",
+    "level": "4A",
+    "province": "山西省",
+    "city": "太原",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "昭君博物院",
+    "level": "4A",
+    "province": "内蒙古自治区",
+    "city": "呼和浩特",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "大召无量寺",
+    "level": "4A",
+    "province": "内蒙古自治区",
+    "city": "呼和浩特",
+    "category": "宗教文化",
+    "source": "4a_amap"
+  },
+  {
+    "name": "张学良旧居陈列馆",
+    "level": "4A",
+    "province": "辽宁省",
+    "city": "沈阳",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "沈阳棋盘山国际风景旅游开发区",
+    "level": "4A",
+    "province": "辽宁省",
+    "city": "沈阳",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "伪满皇宫博物院",
+    "level": "4AA",
+    "province": "吉林省",
+    "city": "长春",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "净月潭国家森林公园",
+    "level": "4AA",
+    "province": "吉林省",
+    "city": "长春",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "长影世纪城",
+    "level": "4AA",
+    "province": "吉林省",
+    "city": "长春",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "太阳岛风景区",
+    "level": "4AA",
+    "province": "黑龙江省",
+    "city": "哈尔滨",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "大连老虎滩海洋公园",
+    "level": "4AA",
+    "province": "辽宁省",
+    "city": "大连",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "大连金石滩国家旅游度假区",
+    "level": "4AA",
+    "province": "辽宁省",
+    "city": "大连",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "上海海昌海洋公园",
+    "level": "4A",
+    "province": "上海",
+    "city": "上海",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "上海野生动物园",
+    "level": "4AA",
+    "province": "上海",
+    "city": "上海",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "南京夫子庙",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "南京",
+    "category": "宗教文化",
+    "source": "4a_amap"
+  },
+  {
+    "name": "夫子庙秦淮风光带",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "南京",
+    "category": "宗教文化",
+    "source": "4a_amap"
+  },
+  {
+    "name": "总统府",
+    "level": "4A",
+    "province": "江苏省",
+    "city": "南京",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "杭州西湖风景名胜区",
+    "level": "4AA",
+    "province": "浙江省",
+    "city": "杭州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "杭州西湖风景名胜区-断桥残雪",
+    "level": "4AA",
+    "province": "浙江省",
+    "city": "杭州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "杭州宋城",
+    "level": "4A",
+    "province": "浙江",
+    "city": "杭州",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "西溪国家湿地公园",
+    "level": "4AA",
+    "province": "浙江省",
+    "city": "杭州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "拙政园",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "苏州",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "周庄古镇",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "苏州",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "苏州同里古镇旅游区",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "苏州",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "苏州太湖国家湿地公园",
+    "level": "4A",
+    "province": "江苏省",
+    "city": "苏州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "灵山胜境-灵山大佛",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "无锡",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "灵山胜境",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "无锡",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "太湖鼋头渚风景区",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "无锡",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "三国水浒景区",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "无锡",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "环球动漫嬉戏谷",
+    "level": "4A",
+    "province": "江苏省",
+    "city": "常州",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "天目湖旅游度假区",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "常州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "天目湖南山竹海景区",
+    "level": "4A",
+    "province": "江苏省",
+    "city": "常州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "蜀冈-瘦西湖风景名胜区",
+    "level": "4AA",
+    "province": "江苏省",
+    "city": "扬州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "个园",
+    "level": "4A",
+    "province": "江苏省",
+    "city": "扬州",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "大明寺(扬州大运河文化旅游度假区)",
+    "level": "4A",
+    "province": "江苏省",
+    "city": "扬州",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "溪口-滕头旅游景区",
+    "level": "4AA",
+    "province": "浙江省",
+    "city": "宁波",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "雁荡山风景名胜区",
+    "level": "4AA",
+    "province": "浙江省",
+    "city": "温州",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "三河古镇",
+    "level": "4AA",
+    "province": "安徽省",
+    "city": "合肥",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "包公园",
+    "level": "4A",
+    "province": "安徽省",
+    "city": "合肥",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "黄山风景区",
+    "level": "4AA",
+    "province": "安徽省",
+    "city": "黄山",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "宏村",
+    "level": "4AA",
+    "province": "安徽省",
+    "city": "黄山",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "西递古村落",
+    "level": "4AA",
+    "province": "安徽省",
+    "city": "黄山",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "鼓浪屿风景名胜区",
+    "level": "4AA",
+    "province": "福建省",
+    "city": "厦门",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "三坊七巷",
+    "level": "4AA",
+    "province": "福建省",
+    "city": "福州",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "武夷山风景名胜区",
+    "level": "4AA",
+    "province": "福建省",
+    "city": "福州",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "太姥山国家级风景名胜区",
+    "level": "4AA",
+    "province": "福建省",
+    "city": "福州",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "滕王阁",
+    "level": "4AA",
+    "province": "江西省",
+    "city": "南昌",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "庐山国家级旅游风景名胜区",
+    "level": "4AA",
+    "province": "江西省",
+    "city": "南昌",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "趵突泉景区",
+    "level": "4AA",
+    "province": "山东省",
+    "city": "济南",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "大明湖景区",
+    "level": "4AA",
+    "province": "山东省",
+    "city": "济南",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "千佛山风景名胜区",
+    "level": "4A",
+    "province": "山东省",
+    "city": "济南",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "崂山风景区",
+    "level": "4AA",
+    "province": "山东省",
+    "city": "青岛",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "金沙滩",
+    "level": "4A",
+    "province": "山东省",
+    "city": "青岛",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "刘公岛景区",
+    "level": "4AA",
+    "province": "山东省",
+    "city": "威海",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "成山头国家重点风景名胜区",
+    "level": "4A",
+    "province": "山东省",
+    "city": "威海",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "黄鹤楼公园",
+    "level": "4AA",
+    "province": "湖北省",
+    "city": "武汉",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "东湖生态旅游风景区",
+    "level": "4A",
+    "province": "湖北省",
+    "city": "武汉",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "岳麓山风景名胜区",
+    "level": "4AA",
+    "province": "湖南省",
+    "city": "长沙",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "长沙橘子洲",
+    "level": "4AA",
+    "province": "湖南省",
+    "city": "长沙",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "少林寺",
+    "level": "4AA",
+    "province": "河南省",
+    "city": "郑州",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "嵩山国家重点风景名胜区",
+    "level": "4AA",
+    "province": "河南省",
+    "city": "郑州",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "龙门石窟",
+    "level": "4AA",
+    "province": "河南省",
+    "city": "洛阳",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "白马寺",
+    "level": "4A",
+    "province": "河南省",
+    "city": "洛阳",
+    "category": "宗教文化",
+    "source": "4a_amap"
+  },
+  {
+    "name": "广州长隆旅游度假区",
+    "level": "4A",
+    "province": "广东",
+    "city": "广州",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "广州市白云山风景名胜区",
+    "level": "4AA",
+    "province": "广东省",
+    "city": "广州",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "陈家祠广场",
+    "level": "4A",
+    "province": "广东省",
+    "city": "广州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "东部华侨城",
+    "level": "4AA",
+    "province": "广东省",
+    "city": "深圳",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "深圳华侨城旅游度假区",
+    "level": "4A",
+    "province": "广东",
+    "city": "深圳",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "漓江景区",
+    "level": "4AA",
+    "province": "广西壮族自治区",
+    "city": "桂林",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "象鼻山景区",
+    "level": "4AA",
+    "province": "广西壮族自治区",
+    "city": "桂林",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "青秀山风景区",
+    "level": "4AA",
+    "province": "广西壮族自治区",
+    "city": "南宁",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "德天跨国瀑布景区",
+    "level": "4AA",
+    "province": "广西壮族自治区",
+    "city": "南宁",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "假日海滩旅游区",
+    "level": "4A",
+    "province": "海南省",
+    "city": "海口",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "雷琼世界地质公园(海口园区)",
+    "level": "4A",
+    "province": "海南省",
+    "city": "海口",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "天涯海角游览区",
+    "level": "4A",
+    "province": "海南省",
+    "city": "三亚",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "三亚南山文化旅游区",
+    "level": "4AA",
+    "province": "海南省",
+    "city": "三亚",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "亚龙湾国家旅游度假区",
+    "level": "4A",
+    "province": "海南省",
+    "city": "三亚",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "亚龙湾热带天堂森林公园",
+    "level": "4A",
+    "province": "海南省",
+    "city": "三亚",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "成都大熊猫繁育研究基地",
+    "level": "4A",
+    "province": "四川省",
+    "city": "成都",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "青城山景区",
+    "level": "4AA",
+    "province": "四川省",
+    "city": "成都",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "黔灵山公园",
+    "level": "4A",
+    "province": "贵州省",
+    "city": "贵阳",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "青岩古镇",
+    "level": "4AA",
+    "province": "贵州省",
+    "city": "贵阳",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "石林风景区",
+    "level": "4AA",
+    "province": "云南省",
+    "city": "昆明",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "世界园艺博览园",
+    "level": "4AA",
+    "province": "云南省",
+    "city": "昆明",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "丽江古城",
+    "level": "4AA",
+    "province": "云南省",
+    "city": "丽江",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "玉龙雪山国家级风景名胜区",
+    "level": "4AA",
+    "province": "云南省",
+    "city": "丽江",
+    "category": "自然风光",
+    "source": "4a_amap"
+  },
+  {
+    "name": "泸沽湖国家级风景名胜区",
+    "level": "4A",
+    "province": "四川省",
+    "city": "丽江",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "布达拉宫",
+    "level": "4AA",
+    "province": "西藏自治区",
+    "city": "拉萨",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "大昭寺",
+    "level": "4AA",
+    "province": "西藏自治区",
+    "city": "拉萨",
+    "category": "宗教文化",
+    "source": "4a_amap"
+  },
+  {
+    "name": "大唐芙蓉园",
+    "level": "4AA",
+    "province": "陕西省",
+    "city": "西安",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "西安城墙",
+    "level": "4AA",
+    "province": "陕西省",
+    "city": "西安",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "塔尔寺",
+    "level": "4AA",
+    "province": "青海省",
+    "city": "西宁",
+    "category": "宗教文化",
+    "source": "4a_amap"
+  },
+  {
+    "name": "沙湖",
+    "level": "4AA",
+    "province": "宁夏回族自治区",
+    "city": "银川",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "西夏陵国家考古遗址公园",
+    "level": "4A",
+    "province": "宁夏回族自治区",
+    "city": "银川",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "新疆国际大巴扎",
+    "level": "4A",
+    "province": "新疆维吾尔自治区",
+    "city": "乌鲁木齐",
+    "category": "其他",
+    "source": "4a_amap"
+  },
+  {
+    "name": "深圳世界之窗",
+    "level": "4A",
+    "province": "广东",
+    "city": "深圳",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "常州中华恐龙园",
+    "level": "4A",
+    "province": "江苏",
+    "city": "常州",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "成都欢乐谷",
+    "level": "4A",
+    "province": "四川",
+    "city": "成都",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "重庆欢乐谷",
+    "level": "4A",
+    "province": "重庆",
+    "city": "重庆",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "武汉欢乐谷",
+    "level": "4A",
+    "province": "湖北",
+    "city": "武汉",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "天津欢乐谷",
+    "level": "4A",
+    "province": "天津",
+    "city": "天津",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "珠海长隆海洋王国",
+    "level": "4A",
+    "province": "广东",
+    "city": "珠海",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "厦门方特梦幻王国",
+    "level": "4A",
+    "province": "福建",
+    "city": "厦门",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "宁波方特东方神画",
+    "level": "4A",
+    "province": "浙江",
+    "city": "宁波",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "郑州方特欢乐世界",
+    "level": "4A",
+    "province": "河南",
+    "city": "郑州",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "沈阳方特欢乐世界",
+    "level": "4A",
+    "province": "辽宁",
+    "city": "沈阳",
+    "category": "主题乐园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "广州塔",
+    "level": "4A",
+    "province": "广东",
+    "city": "广州",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "北京雁栖湖",
+    "level": "4A",
+    "province": "北京",
+    "city": "北京",
+    "category": "城市公园",
+    "source": "4a_amap"
+  },
+  {
+    "name": "西安大唐芙蓉园",
+    "level": "4A",
+    "province": "陕西",
+    "city": "西安",
+    "category": "人文山水",
+    "source": "4a_amap"
+  },
+  {
+    "name": "杭州西溪湿地",
+    "level": "5A",
+    "province": "浙江",
+    "city": "杭州",
+    "category": "自然风光",
+    "source": "4a_amap"
+  }
+]

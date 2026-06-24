@@ -1,0 +1,22 @@
+[
+  {"name": "北京欢乐谷", "level": "4A", "city": "北京", "category": "主题乐园", "province": "北京", "ticket": "299", "open": "09:00-22:00", "tips": "华北最大主题乐园，7大主题区"},
+  {"name": "广州长隆旅游度假区", "level": "4A", "city": "广州", "category": "主题乐园", "province": "广东", "ticket": "305", "open": "09:30-18:00", "tips": "野生动物园+欢乐世界+水上乐园三合一"},
+  {"name": "深圳华侨城旅游度假区", "level": "4A", "city": "深圳", "category": "主题乐园", "province": "广东", "ticket": "220", "open": "09:30-21:00", "tips": "欢乐谷+世界之窗+锦绣中华三大景区"},
+  {"name": "深圳世界之窗", "level": "4A", "city": "深圳", "category": "主题乐园", "province": "广东", "ticket": "200", "open": "09:00-22:00", "tips": "全球微缩景观，埃菲尔铁塔/金字塔/凯旋门"},
+  {"name": "杭州宋城", "level": "4A", "city": "杭州", "category": "主题乐园", "province": "浙江", "ticket": "300", "open": "09:00-最后一场演出结束", "tips": "千古情演出为核心，《宋城千古情》被誉为一生必看"},
+  {"name": "常州中华恐龙园", "level": "4A", "city": "常州", "category": "主题乐园", "province": "江苏", "ticket": "230", "open": "09:00-17:00", "tips": "恐龙主题乐园，全年龄适宜，恐龙基因研究中心"},
+  {"name": "成都欢乐谷", "level": "4A", "city": "成都", "category": "主题乐园", "province": "四川", "ticket": "230", "open": "09:00-21:00", "tips": "西南最大主题乐园之一"},
+  {"name": "重庆欢乐谷", "level": "4A", "city": "重庆", "category": "主题乐园", "province": "重庆", "ticket": "200", "open": "09:30-21:00", "tips": "全球最新欢乐谷旗舰店"},
+  {"name": "武汉欢乐谷", "level": "4A", "city": "武汉", "category": "主题乐园", "province": "湖北", "ticket": "200", "open": "09:30-21:00", "tips": "华中最大主题乐园"},
+  {"name": "天津欢乐谷", "level": "4A", "city": "天津", "category": "主题乐园", "province": "天津", "ticket": "180", "open": "09:30-21:00", "tips": "北方最大室内主题乐园"},
+  {"name": "珠海长隆海洋王国", "level": "4A", "city": "珠海", "category": "主题乐园", "province": "广东", "ticket": "395", "open": "10:00-20:00", "tips": "全球最大海洋主题乐园，鲸鲨馆世界最大"},
+  {"name": "上海海昌海洋公园", "level": "4A", "city": "上海", "category": "主题乐园", "province": "上海", "ticket": "360", "open": "09:00-20:00", "tips": "南极企鹅馆+海象剧场"},
+  {"name": "厦门方特梦幻王国", "level": "4A", "city": "厦门", "category": "主题乐园", "province": "福建", "ticket": "220", "open": "09:30-17:30", "tips": "高科技主题乐园，恐龙危机等室内项目"},
+  {"name": "宁波方特东方神画", "level": "4A", "city": "宁波", "category": "主题乐园", "province": "浙江", "ticket": "220", "open": "09:30-17:30", "tips": "中国传统文化主题，魅力戏曲节"},
+  {"name": "郑州方特欢乐世界", "level": "4A", "city": "郑州", "category": "主题乐园", "province": "河南", "ticket": "200", "open": "09:30-17:30", "tips": "中原最大主题乐园"},
+  {"name": "沈阳方特欢乐世界", "level": "4A", "city": "沈阳", "category": "主题乐园", "province": "辽宁", "ticket": "200", "open": "09:30-17:00", "tips": "东北最大主题乐园"},
+  {"name": "广州塔", "level": "4A", "city": "广州", "category": "城市公园", "province": "广东", "ticket": "150", "open": "09:30-22:00", "tips": "中国第一高塔600米，旋转餐厅，珠江夜游"},
+  {"name": "北京雁栖湖", "level": "4A", "city": "北京", "category": "城市公园", "province": "北京", "ticket": "45", "open": "08:00-17:30", "tips": "APEC会议举办地，国际会议小镇"},
+  {"name": "西安大唐芙蓉园", "level": "4A", "city": "西安", "category": "人文山水", "province": "陕西", "ticket": "120", "open": "09:00-21:00", "tips": "中国最大仿唐文化主题公园，《梦回大唐》演出"},
+  {"name": "杭州西溪湿地", "level": "5A", "city": "杭州", "category": "自然风光", "province": "浙江", "ticket": "80", "open": "08:00-17:30", "tips": "中国首个国家湿地公园，摇撸船体验"}
+]
