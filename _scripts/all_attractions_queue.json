@@ -1,10 +1,11 @@
 [
   {
     "name": "故宫博物院",
-    "level": "5A",
+    "level": "4AA",
     "province": "北京",
-    "city": "",
-    "source": "5a_list"
+    "city": "北京",
+    "category": "人文山水",
+    "source": "4a_amap"
   },
   {
     "name": "恭王府景区",
@@ -15,10 +16,11 @@
   },
   {
     "name": "天坛公园",
-    "level": "5A",
+    "level": "4AA",
     "province": "北京",
-    "city": "",
-    "source": "5a_list"
+    "city": "北京",
+    "category": "城市公园",
+    "source": "4a_amap"
   },
   {
     "name": "北京奥林匹克公园",
@@ -29,10 +31,11 @@
   },
   {
     "name": "颐和园",
-    "level": "5A",
+    "level": "4AA",
     "province": "北京",
-    "city": "",
-    "source": "5a_list"
+    "city": "北京",
+    "category": "其他",
+    "source": "4a_amap"
   },
   {
     "name": "圆明园遗址公园景区",
@@ -205,7 +208,7 @@
   {
     "name": "黄河壶口瀑布旅游区",
     "level": "5A",
-    "province": "山西",
+    "province": "陕西",
     "city": "",
     "source": "5a_list"
   },
@@ -484,10 +487,11 @@
   },
   {
     "name": "上海野生动物园",
-    "level": "5A",
+    "level": "4AA",
     "province": "上海",
-    "city": "",
-    "source": "5a_list"
+    "city": "上海",
+    "category": "主题乐园",
+    "source": "4a_amap"
   },
   {
     "name": "西沙明珠湖景区",
@@ -687,10 +691,11 @@
   },
   {
     "name": "杭州西湖风景名胜区",
-    "level": "5A",
-    "province": "浙江",
-    "city": "",
-    "source": "5a_list"
+    "level": "4AA",
+    "province": "浙江省",
+    "city": "杭州",
+    "category": "城市公园",
+    "source": "4a_amap"
   },
   {
     "name": "温州雁荡山风景名胜区",
@@ -841,10 +846,11 @@
   },
   {
     "name": "黄山风景区",
-    "level": "5A",
-    "province": "安徽",
-    "city": "",
-    "source": "5a_list"
+    "level": "4AA",
+    "province": "安徽省",
+    "city": "黄山",
+    "category": "自然风光",
+    "source": "4a_amap"
   },
   {
     "name": "黄山市古徽州文化旅游区",
@@ -1541,17 +1547,19 @@
   },
   {
     "name": "广州长隆旅游度假区",
-    "level": "5A",
+    "level": "4A",
     "province": "广东",
-    "city": "",
-    "source": "5a_list"
+    "city": "广州",
+    "category": "主题乐园",
+    "source": "4a_amap"
   },
   {
     "name": "深圳华侨城旅游度假区",
-    "level": "5A",
+    "level": "4A",
     "province": "广东",
-    "city": "",
-    "source": "5a_list"
+    "city": "深圳",
+    "category": "主题乐园",
+    "source": "4a_amap"
   },
   {
     "name": "广州白云山风景区",
@@ -1751,10 +1759,11 @@
   },
   {
     "name": "三亚南山文化旅游区",
-    "level": "5A",
-    "province": "海南",
-    "city": "",
-    "source": "5a_list"
+    "level": "4AA",
+    "province": "海南省",
+    "city": "三亚",
+    "category": "人文山水",
+    "source": "4a_amap"
   },
   {
     "name": "三亚南山大小洞天旅游区",
@@ -2282,13 +2291,6 @@
     "source": "5a_list"
   },
   {
-    "name": "黄河壶口瀑布旅游区",
-    "level": "5A",
-    "province": "陕西",
-    "city": "",
-    "source": "5a_list"
-  },
-  {
     "name": "嘉峪关文物景区",
     "level": "5A",
     "province": "甘肃",
@@ -2549,14 +2551,6 @@
     "source": "4a_amap"
   },
   {
-    "name": "故宫博物院",
-    "level": "4AA",
-    "province": "北京",
-    "city": "北京",
-    "category": "人文山水",
-    "source": "4a_amap"
-  },
-  {
     "name": "八达岭长城",
     "level": "4AA",
     "province": "北京",
@@ -2586,22 +2580,6 @@
     "province": "北京",
     "city": "北京",
     "category": "其他",
-    "source": "4a_amap"
-  },
-  {
-    "name": "颐和园",
-    "level": "4AA",
-    "province": "北京",
-    "city": "北京",
-    "category": "其他",
-    "source": "4a_amap"
-  },
-  {
-    "name": "天坛公园",
-    "level": "4AA",
-    "province": "北京",
-    "city": "北京",
-    "category": "城市公园",
     "source": "4a_amap"
   },
   {
@@ -2749,14 +2727,6 @@
     "source": "4a_amap"
   },
   {
-    "name": "上海野生动物园",
-    "level": "4AA",
-    "province": "上海",
-    "city": "上海",
-    "category": "主题乐园",
-    "source": "4a_amap"
-  },
-  {
     "name": "南京夫子庙",
     "level": "4AA",
     "province": "江苏省",
@@ -2778,14 +2748,6 @@
     "province": "江苏省",
     "city": "南京",
     "category": "其他",
-    "source": "4a_amap"
-  },
-  {
-    "name": "杭州西湖风景名胜区",
-    "level": "4AA",
-    "province": "浙江省",
-    "city": "杭州",
-    "category": "城市公园",
     "source": "4a_amap"
   },
   {
@@ -2954,14 +2916,6 @@
     "province": "安徽省",
     "city": "合肥",
     "category": "城市公园",
-    "source": "4a_amap"
-  },
-  {
-    "name": "黄山风景区",
-    "level": "4AA",
-    "province": "安徽省",
-    "city": "黄山",
-    "category": "自然风光",
     "source": "4a_amap"
   },
   {
@@ -3149,14 +3103,6 @@
     "source": "4a_amap"
   },
   {
-    "name": "广州长隆旅游度假区",
-    "level": "4A",
-    "province": "广东",
-    "city": "广州",
-    "category": "主题乐园",
-    "source": "4a_amap"
-  },
-  {
     "name": "广州市白云山风景名胜区",
     "level": "4AA",
     "province": "广东省",
@@ -3178,14 +3124,6 @@
     "province": "广东省",
     "city": "深圳",
     "category": "其他",
-    "source": "4a_amap"
-  },
-  {
-    "name": "深圳华侨城旅游度假区",
-    "level": "4A",
-    "province": "广东",
-    "city": "深圳",
-    "category": "主题乐园",
     "source": "4a_amap"
   },
   {
@@ -3242,14 +3180,6 @@
     "province": "海南省",
     "city": "三亚",
     "category": "自然风光",
-    "source": "4a_amap"
-  },
-  {
-    "name": "三亚南山文化旅游区",
-    "level": "4AA",
-    "province": "海南省",
-    "city": "三亚",
-    "category": "人文山水",
     "source": "4a_amap"
   },
   {
@@ -3523,5 +3453,1240 @@
     "city": "杭州",
     "category": "自然风光",
     "source": "4a_amap"
+  },
+  {
+    "name": "景山公园",
+    "level": "4A",
+    "city": "北京",
+    "province": "北京",
+    "location": [
+      116.396551,
+      39.925875
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-北京"
+  },
+  {
+    "name": "中山公园",
+    "level": "4A",
+    "city": "北京",
+    "province": "北京",
+    "location": [
+      116.394407,
+      39.910707
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-北京"
+  },
+  {
+    "name": "北海公园",
+    "level": "4A",
+    "city": "北京",
+    "province": "北京",
+    "location": [
+      116.391802,
+      39.928775
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-北京"
+  },
+  {
+    "name": "北京明城墙遗址公园",
+    "level": "4A",
+    "city": "北京",
+    "province": "北京",
+    "location": [
+      116.427901,
+      39.901264
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-北京"
+  },
+  {
+    "name": "龙潭中湖公园",
+    "level": "4A",
+    "city": "北京",
+    "province": "北京",
+    "location": [
+      116.432072,
+      39.876755
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-北京"
+  },
+  {
+    "name": "龙潭公园",
+    "level": "4A",
+    "city": "北京",
+    "province": "北京",
+    "location": [
+      116.438258,
+      39.879792
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-北京"
+  },
+  {
+    "name": "房山十渡风景名胜区",
+    "level": "4A",
+    "city": "北京",
+    "province": "北京",
+    "location": [
+      115.610697,
+      39.64063
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;省级景点",
+    "source": "amap-北京"
+  },
+  {
+    "name": "天津五大道文化旅游区",
+    "level": "4A",
+    "city": "天津",
+    "province": "天津",
+    "location": [
+      117.203601,
+      39.110567
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-天津"
+  },
+  {
+    "name": "天塔湖风景区",
+    "level": "4A",
+    "city": "天津",
+    "province": "天津",
+    "location": [
+      117.181701,
+      39.092947
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-天津"
+  },
+  {
+    "name": "天津水上公园",
+    "level": "4A",
+    "city": "天津",
+    "province": "天津",
+    "location": [
+      117.167689,
+      39.089124
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-天津"
+  },
+  {
+    "name": "太原市汾河景区",
+    "level": "4A",
+    "city": "太原",
+    "province": "山西",
+    "location": [
+      112.539438,
+      37.841953
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-太原"
+  },
+  {
+    "name": "开滦国家矿山公园",
+    "level": "4A",
+    "city": "唐山",
+    "province": "河北",
+    "location": [
+      118.200471,
+      39.621563
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-唐山"
+  },
+  {
+    "name": "河头老街",
+    "level": "4A",
+    "city": "唐山",
+    "province": "河北",
+    "location": [
+      118.075413,
+      39.561789
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-唐山"
+  },
+  {
+    "name": "秦皇岛野生动物园",
+    "level": "4A",
+    "city": "秦皇岛",
+    "province": "河北",
+    "location": [
+      119.520296,
+      39.868828
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;动物园",
+    "source": "amap-秦皇岛"
+  },
+  {
+    "name": "秦皇岛新澳海底世界",
+    "level": "4A",
+    "city": "秦皇岛",
+    "province": "河北",
+    "location": [
+      119.562879,
+      39.906134
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-秦皇岛"
+  },
+  {
+    "name": "鸽子窝公园",
+    "level": "4A",
+    "city": "秦皇岛",
+    "province": "河北",
+    "location": [
+      119.526688,
+      39.836216
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-秦皇岛"
+  },
+  {
+    "name": "沈阳故宫博物院",
+    "level": "4A",
+    "city": "沈阳",
+    "province": "辽宁",
+    "location": [
+      123.455677,
+      41.798387
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-沈阳"
+  },
+  {
+    "name": "大连森林动物园",
+    "level": "4A",
+    "city": "大连",
+    "province": "辽宁",
+    "location": [
+      121.613226,
+      38.882789
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;动物园",
+    "source": "amap-大连"
+  },
+  {
+    "name": "长春市动植物公园",
+    "level": "4A",
+    "city": "长春",
+    "province": "吉林",
+    "location": [
+      125.335289,
+      43.868108
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;动物园",
+    "source": "amap-长春"
+  },
+  {
+    "name": "东北虎林园",
+    "level": "4A",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "location": [
+      126.60065,
+      45.817483
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-哈尔滨"
+  },
+  {
+    "name": "哈尔滨极地公园·极地馆",
+    "level": "4A",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "location": [
+      126.586057,
+      45.784741
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;水族馆",
+    "source": "amap-哈尔滨"
+  },
+  {
+    "name": "金河湾湿地植物园",
+    "level": "4A",
+    "city": "哈尔滨",
+    "province": "黑龙江",
+    "location": [
+      126.498681,
+      45.783001
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;植物园",
+    "source": "amap-哈尔滨"
+  },
+  {
+    "name": "孔子文化园",
+    "level": "4A",
+    "city": "吉林",
+    "province": "吉林",
+    "location": [
+      125.350736,
+      43.886478
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-吉林"
+  },
+  {
+    "name": "吉林市永吉县北大湖滑雪度假区",
+    "level": "4A",
+    "city": "吉林",
+    "province": "吉林",
+    "location": [
+      126.631764,
+      43.415996
+    ],
+    "category": "其他",
+    "type": "体育休闲服务;运动场馆;滑雪场|风景名胜;风景名胜相关;旅游景点",
+    "source": "amap-吉林"
+  },
+  {
+    "name": "上海豫园",
+    "level": "4A",
+    "city": "上海",
+    "province": "上海",
+    "location": [
+      121.492497,
+      31.227714
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-上海"
+  },
+  {
+    "name": "上海汽车博览公园",
+    "level": "4A",
+    "city": "上海",
+    "province": "上海",
+    "location": [
+      121.173738,
+      31.278534
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-上海"
+  },
+  {
+    "name": "上海长风海洋世界",
+    "level": "4A",
+    "city": "上海",
+    "province": "上海",
+    "location": [
+      121.396998,
+      31.225042
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;水族馆",
+    "source": "amap-上海"
+  },
+  {
+    "name": "上海欢乐谷",
+    "level": "4A",
+    "city": "上海",
+    "province": "上海",
+    "location": [
+      121.214778,
+      31.09607
+    ],
+    "category": "其他",
+    "type": "体育休闲服务;休闲场所;游乐场|风景名胜;风景名胜相关;旅游景点",
+    "source": "amap-上海"
+  },
+  {
+    "name": "玄武湖景区",
+    "level": "4A",
+    "city": "南京",
+    "province": "江苏",
+    "location": [
+      118.812688,
+      32.069455
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-南京"
+  },
+  {
+    "name": "寒山寺",
+    "level": "4A",
+    "city": "苏州",
+    "province": "江苏",
+    "location": [
+      120.568391,
+      31.310469
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-苏州"
+  },
+  {
+    "name": "木渎古镇",
+    "level": "4A",
+    "city": "苏州",
+    "province": "江苏",
+    "location": [
+      120.512068,
+      31.2524
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-苏州"
+  },
+  {
+    "name": "狮子林",
+    "level": "4A",
+    "city": "苏州",
+    "province": "江苏",
+    "location": [
+      120.629095,
+      31.321068
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-苏州"
+  },
+  {
+    "name": "甪直古镇",
+    "level": "4A",
+    "city": "苏州",
+    "province": "江苏",
+    "location": [
+      120.873077,
+      31.269523
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-苏州"
+  },
+  {
+    "name": "千灯古镇",
+    "level": "4A",
+    "city": "苏州",
+    "province": "江苏",
+    "location": [
+      121.001248,
+      31.265257
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-苏州"
+  },
+  {
+    "name": "锦溪古镇",
+    "level": "4A",
+    "city": "苏州",
+    "province": "江苏",
+    "location": [
+      120.900593,
+      31.175119
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-苏州"
+  },
+  {
+    "name": "七里山塘景区",
+    "level": "4A",
+    "city": "苏州",
+    "province": "江苏",
+    "location": [
+      120.602105,
+      31.317059
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-苏州"
+  },
+  {
+    "name": "平江路",
+    "level": "4A",
+    "city": "苏州",
+    "province": "江苏",
+    "location": [
+      120.634556,
+      31.313969
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点|购物服务;特色商业街;特色商业街",
+    "source": "amap-苏州"
+  },
+  {
+    "name": "宜兴龙背山森林公园",
+    "level": "4A",
+    "city": "无锡",
+    "province": "江苏",
+    "location": [
+      119.815247,
+      31.326914
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-无锡"
+  },
+  {
+    "name": "无锡动物园-太湖欢乐园",
+    "level": "4A",
+    "city": "无锡",
+    "province": "江苏",
+    "location": [
+      120.23369,
+      31.580557
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;动物园",
+    "source": "amap-无锡"
+  },
+  {
+    "name": "红梅公园",
+    "level": "4A",
+    "city": "常州",
+    "province": "江苏",
+    "location": [
+      119.973393,
+      31.774671
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-常州"
+  },
+  {
+    "name": "宋夹城体育休闲公园(扬州大运河文化旅游度假区)",
+    "level": "4A",
+    "city": "扬州",
+    "province": "江苏",
+    "location": [
+      119.427059,
+      32.416199
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-扬州"
+  },
+  {
+    "name": "何园",
+    "level": "4A",
+    "city": "扬州",
+    "province": "江苏",
+    "location": [
+      119.448798,
+      32.38563
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-扬州"
+  },
+  {
+    "name": "宁波老外滩",
+    "level": "4A",
+    "city": "宁波",
+    "province": "浙江",
+    "location": [
+      121.560634,
+      29.876526
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-宁波"
+  },
+  {
+    "name": "宁波海洋世界",
+    "level": "4A",
+    "city": "宁波",
+    "province": "浙江",
+    "location": [
+      121.582695,
+      29.853068
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;水族馆",
+    "source": "amap-宁波"
+  },
+  {
+    "name": "印象南塘",
+    "level": "4A",
+    "city": "温州",
+    "province": "浙江",
+    "location": [
+      120.668567,
+      27.994487
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-温州"
+  },
+  {
+    "name": "江心屿",
+    "level": "4A",
+    "city": "温州",
+    "province": "浙江",
+    "location": [
+      120.639046,
+      28.027008
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-温州"
+  },
+  {
+    "name": "徽园",
+    "level": "4A",
+    "city": "合肥",
+    "province": "安徽",
+    "location": [
+      117.218822,
+      31.783386
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-合肥"
+  },
+  {
+    "name": "黎阳in巷",
+    "level": "4A",
+    "city": "黄山",
+    "province": "安徽",
+    "location": [
+      118.298723,
+      29.70628
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-黄山"
+  },
+  {
+    "name": "黄山市新安江滨水旅游景区",
+    "level": "4A",
+    "city": "黄山",
+    "province": "安徽",
+    "location": [
+      118.356287,
+      29.729205
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-黄山"
+  },
+  {
+    "name": "于山风景名胜公园",
+    "level": "4A",
+    "city": "福州",
+    "province": "福建",
+    "location": [
+      119.307678,
+      26.07803
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-福州"
+  },
+  {
+    "name": "南昌八一起义纪念馆",
+    "level": "4A",
+    "city": "南昌",
+    "province": "江西",
+    "location": [
+      115.889435,
+      28.67467
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;纪念馆",
+    "source": "amap-南昌"
+  },
+  {
+    "name": "海滨风景区",
+    "level": "4A",
+    "city": "青岛",
+    "province": "山东",
+    "location": [
+      120.343211,
+      36.057782
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-青岛"
+  },
+  {
+    "name": "奥林匹克帆船中心·奥帆海洋文化旅游区",
+    "level": "4A",
+    "city": "青岛",
+    "province": "山东",
+    "location": [
+      120.395063,
+      36.054643
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-青岛"
+  },
+  {
+    "name": "环翠楼公园",
+    "level": "4A",
+    "city": "威海",
+    "province": "山东",
+    "location": [
+      122.108519,
+      37.505145
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-威海"
+  },
+  {
+    "name": "养马岛",
+    "level": "4A",
+    "city": "烟台",
+    "province": "山东",
+    "location": [
+      121.61109,
+      37.453552
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-烟台"
+  },
+  {
+    "name": "烟台海昌渔人码头",
+    "level": "4A",
+    "city": "烟台",
+    "province": "山东",
+    "location": [
+      121.452367,
+      37.519283
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-烟台"
+  },
+  {
+    "name": "烟台山景区",
+    "level": "4A",
+    "city": "烟台",
+    "province": "山东",
+    "location": [
+      121.402115,
+      37.548354
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-烟台"
+  },
+  {
+    "name": "金沙滩海滨公园",
+    "level": "4A",
+    "city": "烟台",
+    "province": "山东",
+    "location": [
+      121.25884,
+      37.574508
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-烟台"
+  },
+  {
+    "name": "海合安武汉极地海洋度假区",
+    "level": "4A",
+    "city": "武汉",
+    "province": "湖北",
+    "location": [
+      114.276769,
+      30.664028
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;水族馆",
+    "source": "amap-武汉"
+  },
+  {
+    "name": "隋唐城遗址植物园",
+    "level": "4A",
+    "city": "洛阳",
+    "province": "河南",
+    "location": [
+      112.448335,
+      34.635398
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;植物园",
+    "source": "amap-洛阳"
+  },
+  {
+    "name": "关林景区",
+    "level": "4A",
+    "city": "洛阳",
+    "province": "河南",
+    "location": [
+      112.483366,
+      34.607419
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜相关;旅游景点",
+    "source": "amap-洛阳"
+  },
+  {
+    "name": "中国国花园",
+    "level": "4A",
+    "city": "洛阳",
+    "province": "河南",
+    "location": [
+      112.458202,
+      34.655431
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-洛阳"
+  },
+  {
+    "name": "万岁山武侠城",
+    "level": "4A",
+    "city": "开封",
+    "province": "河南",
+    "location": [
+      114.3518,
+      34.819966
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-开封"
+  },
+  {
+    "name": "包公祠",
+    "level": "4A",
+    "city": "开封",
+    "province": "河南",
+    "location": [
+      114.33911,
+      34.792935
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;寺庙道观",
+    "source": "amap-开封"
+  },
+  {
+    "name": "开封府",
+    "level": "4A",
+    "city": "开封",
+    "province": "河南",
+    "location": [
+      114.3465,
+      34.789726
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-开封"
+  },
+  {
+    "name": "神农架天燕景区",
+    "level": "4A",
+    "city": "神农架",
+    "province": "湖北",
+    "location": [
+      110.455953,
+      31.697123
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-神农架"
+  },
+  {
+    "name": "神农天池景区",
+    "level": "4A",
+    "city": "神农架",
+    "province": "湖北",
+    "location": [
+      110.513992,
+      31.821628
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-神农架"
+  },
+  {
+    "name": "神农架红坪景区",
+    "level": "4A",
+    "city": "神农架",
+    "province": "湖北",
+    "location": [
+      110.452625,
+      31.664003
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-神农架"
+  },
+  {
+    "name": "越秀公园",
+    "level": "4A",
+    "city": "广州",
+    "province": "广东",
+    "location": [
+      113.265561,
+      23.140096
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-广州"
+  },
+  {
+    "name": "中山纪念堂",
+    "level": "4A",
+    "city": "广州",
+    "province": "广东",
+    "location": [
+      113.264692,
+      23.13286
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;纪念馆|风景名胜;风景名胜;国家级景点",
+    "source": "amap-广州"
+  },
+  {
+    "name": "黄花岗公园",
+    "level": "4A",
+    "city": "广州",
+    "province": "广东",
+    "location": [
+      113.295108,
+      23.139692
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-广州"
+  },
+  {
+    "name": "海上田园",
+    "level": "4A",
+    "city": "深圳",
+    "province": "广东",
+    "location": [
+      113.770726,
+      22.727047
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-深圳"
+  },
+  {
+    "name": "民歌湖国际音乐小镇",
+    "level": "4A",
+    "city": "南宁",
+    "province": "广西壮族自治区",
+    "location": [
+      108.375129,
+      22.809576
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜相关;旅游景点",
+    "source": "amap-南宁"
+  },
+  {
+    "name": "李明瑞韦拔群等革命烈士纪念馆",
+    "level": "4A",
+    "city": "南宁",
+    "province": "广西壮族自治区",
+    "location": [
+      108.350667,
+      22.803693
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;纪念馆",
+    "source": "amap-南宁"
+  },
+  {
+    "name": "北海海底世界",
+    "level": "4A",
+    "city": "北海",
+    "province": "广西壮族自治区",
+    "location": [
+      109.127826,
+      21.48724
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-北海"
+  },
+  {
+    "name": "北海银滩国家旅游度假区",
+    "level": "4A",
+    "city": "北海",
+    "province": "广西壮族自治区",
+    "location": [
+      109.155721,
+      21.40364
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-北海"
+  },
+  {
+    "name": "鹿回头风景区",
+    "level": "4A",
+    "city": "三亚",
+    "province": "海南",
+    "location": [
+      109.50131,
+      18.225639
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-三亚"
+  },
+  {
+    "name": "海口观澜湖旅游度假区",
+    "level": "4A",
+    "city": "海口",
+    "province": "海南",
+    "location": [
+      110.309873,
+      19.889968
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-海口"
+  },
+  {
+    "name": "西双版纳热带花卉园",
+    "level": "4A",
+    "city": "西双版纳",
+    "province": "云南",
+    "location": [
+      100.786669,
+      22.010849
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-西双版纳"
+  },
+  {
+    "name": "告庄西双景",
+    "level": "4A",
+    "city": "西双版纳",
+    "province": "云南",
+    "location": [
+      100.821392,
+      22.007019
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜相关;旅游景点",
+    "source": "amap-西双版纳"
+  },
+  {
+    "name": "曼听御花园景区",
+    "level": "4A",
+    "city": "西双版纳",
+    "province": "云南",
+    "location": [
+      100.807593,
+      21.991168
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-西双版纳"
+  },
+  {
+    "name": "黄龙溪古镇",
+    "level": "4A",
+    "city": "成都",
+    "province": "四川",
+    "location": [
+      103.970525,
+      30.317805
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-成都"
+  },
+  {
+    "name": "天河潭旅游度假区",
+    "level": "4A",
+    "city": "贵阳",
+    "province": "贵州",
+    "location": [
+      106.580558,
+      26.440169
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-贵阳"
+  },
+  {
+    "name": "官渡古镇",
+    "level": "4A",
+    "city": "昆明",
+    "province": "云南",
+    "location": [
+      102.755581,
+      24.955125
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-昆明"
+  },
+  {
+    "name": "束河古镇",
+    "level": "4A",
+    "city": "丽江",
+    "province": "云南",
+    "location": [
+      100.205679,
+      26.9196
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-丽江"
+  },
+  {
+    "name": "大理古城",
+    "level": "4A",
+    "city": "大理",
+    "province": "云南",
+    "location": [
+      100.164,
+      25.694836
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-大理"
+  },
+  {
+    "name": "洱海公园",
+    "level": "4A",
+    "city": "大理",
+    "province": "云南",
+    "location": [
+      100.247329,
+      25.603041
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-大理"
+  },
+  {
+    "name": "罗布林卡",
+    "level": "4A",
+    "city": "拉萨",
+    "province": "西藏自治区",
+    "location": [
+      91.092479,
+      29.651619
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;世界遗产",
+    "source": "amap-拉萨"
+  },
+  {
+    "name": "汉城湖旅游风景区",
+    "level": "4A",
+    "city": "西安",
+    "province": "陕西",
+    "location": [
+      108.918796,
+      34.298276
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-西安"
+  },
+  {
+    "name": "水车博览园",
+    "level": "4A",
+    "city": "兰州",
+    "province": "甘肃",
+    "location": [
+      103.84353,
+      36.063249
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-兰州"
+  },
+  {
+    "name": "五泉山公园",
+    "level": "4A",
+    "city": "兰州",
+    "province": "甘肃",
+    "location": [
+      103.824194,
+      36.036748
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;风景名胜",
+    "source": "amap-兰州"
+  },
+  {
+    "name": "西宁野生动物园",
+    "level": "4A",
+    "city": "西宁",
+    "province": "青海",
+    "location": [
+      101.731971,
+      36.627022
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;动物园",
+    "source": "amap-西宁"
+  },
+  {
+    "name": "红山公园",
+    "level": "4A",
+    "city": "乌鲁木齐",
+    "province": "新疆维吾尔自治区",
+    "location": [
+      87.606487,
+      43.807964
+    ],
+    "category": "其他",
+    "type": "风景名胜;公园广场;公园",
+    "source": "amap-乌鲁木齐"
+  },
+  {
+    "name": "敦煌世界地质公园雅丹景区",
+    "level": "4A",
+    "city": "敦煌",
+    "province": "甘肃",
+    "location": [
+      93.133082,
+      40.484767
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-敦煌"
+  },
+  {
+    "name": "阳关玉门关旅游区(阳关)",
+    "level": "4A",
+    "city": "敦煌",
+    "province": "甘肃",
+    "location": [
+      94.056155,
+      39.935735
+    ],
+    "category": "其他",
+    "type": "风景名胜;风景名胜;国家级景点",
+    "source": "amap-敦煌"
   }
 ]
