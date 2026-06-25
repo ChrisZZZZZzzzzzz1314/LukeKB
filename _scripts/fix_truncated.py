@@ -47,7 +47,7 @@ def get_llm_content(name, level, category):
         "-d", json.dumps(payload)
     ]
     try:
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
         resp = json.loads(result.stdout)
         if "content" in resp:
             for block in resp["content"]:
