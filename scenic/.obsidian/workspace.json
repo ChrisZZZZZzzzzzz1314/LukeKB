@@ -11,13 +11,10 @@
             "id": "f6791a16f30a0811",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -196,8 +193,8 @@
   "active": "f6791a16f30a0811",
   "lastOpenFiles": [
     "2026-06-29.md",
-    "未命名.base",
     "未命名.canvas",
+    "未命名.base",
     "5A/城市公园/5A-大理崇圣寺三塔文化旅游区.md",
     "未命名.md",
     "5A/城市公园/5A-郴州东江湖旅游区.md",
