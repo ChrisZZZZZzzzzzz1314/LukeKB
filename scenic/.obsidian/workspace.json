@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "606d13f9dd80d8c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f099a4686bd58b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6791a16f30a0811",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f76832ba2a7f0ac5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f98bc298aefdb7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b32b744d9b24125a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33800af208d6b5a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "afa5894dd3f01a57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88e1498d98bf7597",
+    "type": "split",
+    "children": [
+      {
+        "id": "a13916c89753d6b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a419602045a064c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5A/城市公园/5A-大理崇圣寺三塔文化旅游区.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "5A-大理崇圣寺三塔文化旅游区 的反向链接列表"
+            }
+          },
+          {
+            "id": "e65dfc6ba39f2ace",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5A/城市公园/5A-大理崇圣寺三塔文化旅游区.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "5A-大理崇圣寺三塔文化旅游区 的出链列表"
+            }
+          },
+          {
+            "id": "21b30560458ff944",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0cf25b3089315962",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e1fca18acd7a4c95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5A/城市公园/5A-大理崇圣寺三塔文化旅游区.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5A-大理崇圣寺三塔文化旅游区"
+            }
+          },
+          {
+            "id": "3cc728f555f5a8e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f6791a16f30a0811",
+  "lastOpenFiles": [
+    "2026-06-29.md",
+    "未命名.base",
+    "未命名.canvas",
+    "5A/城市公园/5A-大理崇圣寺三塔文化旅游区.md",
+    "未命名.md",
+    "5A/城市公园/5A-郴州东江湖旅游区.md",
+    "5A/城市公园/5A-百色起义纪念园景区.md",
+    "4A/城市公园/4A-广州塔.md",
+    "4A/城市公园/4A-大连老虎滩海洋公园.md",
+    "4A/城市公园/4A-陈家祠广场.md",
+    "4A/城市公园/4A-包公园.md"
+  ]
+}
