@@ -160,19 +160,9 @@
               "icon": "lucide-list",
               "title": "Outline of 5A-大理崇圣寺三塔文化旅游区"
             }
-          },
-          {
-            "id": "3cc728f555f5a8e6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cc728f555f5a8e6",
+  "active": "e1fca18acd7a4c95",
   "lastOpenFiles": [
     "2026-06-29.md",
     "未命名.canvas",
