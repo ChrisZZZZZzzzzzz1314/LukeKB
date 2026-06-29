@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f099a4686bd58b9a",
+        "id": "588011e7979e2932",
         "type": "tabs",
         "children": [
           {
-            "id": "f6791a16f30a0811",
+            "id": "f178d588e6fde748",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6791a16f30a0811",
+  "active": "3cc728f555f5a8e6",
   "lastOpenFiles": [
     "2026-06-29.md",
     "未命名.canvas",
